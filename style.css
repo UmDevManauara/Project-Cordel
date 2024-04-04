@@ -55,24 +55,28 @@ div.normal {
     background-color: white;
     padding-top: 10vh;
     padding-bottom: 10vh;
-    padding-left: 10vh;
+    padding-left: 30px;
   
 }
 div.normal p{
     line-height: 2em;
-    padding: 2em;
+    max-width: 300px;
+    min-width: 30vw;
+    padding: 5vh;
 }
 div.imagem{
     background-color: rgb(39, 39, 39);
     color: white;
     padding-top: 10vh;
     padding-bottom: 10vh;
-    padding-left: 10vh;
+    padding-left: 30px;
+    
     
 }
 div.imagem p{
     background-color: rgba(0, 0, 0, 0.13);
-    width: 50vh;
+    max-width: 300px;
+    min-width: 30vw;
     padding: 5vh;
     
 }
